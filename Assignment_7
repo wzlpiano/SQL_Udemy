@@ -1,3 +1,4 @@
+USING THE DATA FROM ASSIGNMENT 4
 --1.Write a query that displays 3 columns. 
 --The query should display the fruit and it's total supply along with a category of either LOW, ENOUGH or FULL.
 --Low category means that the total supply of the fruit is less than 20,000.  
